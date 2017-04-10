@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VMAX Native-Infeed Sample</string>
+    <string name="adspot_id">Adspot Id:</string>
+    <string name="cache_ads">Cache Ads</string>
+    <string name="go_to_other_activity">Go to other Activity</string>
+    <string name="no_cache">No cache</string>
+    <string name="input_adspot_id">Please input your adspot Id!</string>
+    <string name="show_adspot">Show Adspot</string>
+    <string name="adspot_cached">Adspot cached!</string>
+    <string name="load__cache_beforce">Please load cache beforce!</string>
+    <string name="load_cache">Load cache</string>
+    <string name="defaulID">8dd6d229</string>
+    <string name="defaulWidth">320</string>
+    <string name="defaulHeight">80</string>
+    <string name="height">Height</string>
+    <string name="width">Width</string>
+</resources>
